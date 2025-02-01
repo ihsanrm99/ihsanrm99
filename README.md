@@ -7,7 +7,7 @@ Software Engineer
 * 🌍  I'm based in Indonesia
 * ✉️  You can contact me at [ihsanrahmatm@gmail.com](mailto:ihsanrahmatm@gmail.com)
 * 🚀  I'm currently working on [Propertindo Solusi Informatika](http://landing.prime-psi.com/)
-* 🧠  I'm learning Next JS 
+* 🧠  I'm learning Next JS
 
 <!-- ## Hi there 👋 -->
 
